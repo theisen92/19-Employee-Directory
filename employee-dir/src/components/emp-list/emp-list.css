@@ -1,0 +1,14 @@
+th {
+  font-family: "Press Start 2P", cursive;
+  color: #80ffc5;
+  background-color: #2e2e2e;
+  border-bottom: none !important;
+}
+
+.single-header {
+  padding-bottom: 25px !important;
+}
+
+.t-header {
+  border: none !important;
+}

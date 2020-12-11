@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.header,
+.search-text {
+  font-family: "Press Start 2P", cursive;
+  color: #80ffc5;
+}
+
+.header {
+  font-size: 74px !important;
+  margin: 50px !important;
+}
+
+.search-text {
+  font-size: 15px;
+  margin-bottom: 30px;
+}
